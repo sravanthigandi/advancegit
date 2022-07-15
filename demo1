@@ -3,3 +3,4 @@ git rebase is provided the clean history of the project compare to merge
 git rebase is never use it on public branches
 because if u rebase moveall the commits to the tip of feature branch from main branch but others doest have these changes only the feature have thes changes u r working completly different compare to orthers
 now starting the merge commands
+now trying to use git rebase command
